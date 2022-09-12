@@ -5,7 +5,7 @@ const FooterDown = () => {
 
    return (
      <div className="footer-box">
-         <p className="footer">Dibuat oleh<br/>Created by<br/>Fathan Yuda F.<br/>2022 </p>
+         <p className="footer">Dibuat oleh<br/>Fathan Yuda F.<br/>2022 </p>
      </div>
    );
 }

@@ -38,8 +38,8 @@ const Home = () => {
               Cum Laude yang bernilai IPK 3.79/4.00. 
               <br/>
               <br/>
-              Saat ini Saya bekerja di Ndaleme Mbahkung Homestay Malang sebagai
-              Staf Homestay yang bertugas untuk menjamin kelancaran dan kerapihan operasional Homestay.
+              Saat ini Saya mengikuti magang di PT Sarinah di divisi Digital Business mulai 
+              dari Bulan September 2022 hingga Januari 2023.
               <br/>
               <br/>
               Saya memiliki keahlian di bilang frontend web development, administrasi,

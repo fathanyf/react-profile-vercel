@@ -26,6 +26,10 @@ ul{
     margin-left: 2%;
 }
 
+.judul-pendidikan{
+    margin-left: -4%;
+}
+
 .pendidikan{
     padding: 10px;
     flex: 50%;
@@ -34,7 +38,16 @@ ul{
 .pekerjaan{
     padding: 10px;
     flex: 50%;
+    margin-left: -4%;
 }
+
+.pekerjaan li{
+    margin-left: 3%;
+}
+
+/* .judul-pekerjaan{
+    margin-right: 10%;
+} */
 
 .Pengalaman ul{
     font-family: 'Roboto', sans-serif;
@@ -60,6 +73,7 @@ ul{
 
 .kemampuan li{
     text-align: left;
+    margin-left: 2.5%;
 }
 
 .hardskill, .frontend,

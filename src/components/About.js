@@ -27,14 +27,20 @@ const About = () => {
       </div>
 
       <div className="pekerjaan">
-        <h2>Pengalaman Pekerjaan dan Kegiatan</h2>
+        <h2 className="judul-pekerjaan">Pengalaman Pekerjaan dan Kegiatan</h2>
         <div>
           <ul>
+            <li><strong>Digital Business Intern</strong>
+                <br/>
+                PT Sarinah
+                <br/>
+                <p>(September 2022 - Sekarang)</p>
+            </li>
             <li><strong>Staf Homestay</strong>
                 <br/>
                 Ndaleme Mbahkung Malang
                 <br/>
-                <p>(Januari 2022 - Sekarang)</p>
+                <p>(Januari - Juli 2022)</p>
             </li>
             <li><strong>Anggota Tim Penelitian Lapangan</strong>
                 <br/>
@@ -129,16 +135,29 @@ const About = () => {
         </li>
       </div>
       <div className="portoweb2">
-      <li><strong>Full Stack Web Development Bootcamp Certification</strong>
+      <li><strong>Teknik Pengumpulan Data dari Jejak Digital</strong>
         <br/>
-        <p><strong>Binar Academy</strong></p>
+        <p><strong>Anak Teknik Indonesia</strong></p>
         <br/>
         <p className="date-text">15 Agustus 2021</p>
         <img src="./foto/osint-web.png" alt="porto-homestay" className="img-porto1"/>
         </li>
       </div>
+      <div className="portoweb2">
+        <li><strong>Intro to Product Management</strong>
+        <br/>
+        <p><strong>Revo U</strong></p>
+        <br/>
+        <p className="date-text">12 Agustus 2022</p>
+        <img src="./foto/revou-pm.png" alt="porto-homestay" className="img-porto1"/>
+        </li>
+      </div>
+    </section>
+
+    <section>
 
     </section>
+    
     </>
   );
 };
