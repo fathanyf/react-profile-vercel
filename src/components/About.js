@@ -146,7 +146,7 @@ const About = () => {
       <div className="portoweb2">
         <li><strong>Intro to Product Management</strong>
         <br/>
-        <p><strong>Revo U</strong> 12 August 2022</p>
+        <p><strong>Revo U</strong> 12 August 2022 </p>
         {/* <br/>
         <p className="date-text">12 Agustus 2022</p> */}
         <img src="./foto/revou-pm.png" alt="porto-homestay" className="img-porto1"/>
